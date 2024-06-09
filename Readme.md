@@ -38,8 +38,8 @@ We use thread config to keep track of threads inside the persistent checkpoint. 
 
 Below are some of the architectures we use:
 
-![Flow Engineering](Flow Engineering (For Coding).png)
-![Language Agent Tree Search](Language Agent Tree Search.png)
-![Multi-Agent Architecture](Multi-Agent Architecture.png)
-![Plan and Execute Architecture](Plan And Execute Architecture.png)
-![SuperVisor Architecture](SuperVisor Architecture.png)
+![Flow Engineering (For Coding).png](https://github.com/n-p-m/Agentic-LLM-Architecture-with-Tavily/blob/main/Flow%20Engineering%20(For%20Coding).png)
+![Language Agent Tree Search.png](https://github.com/n-p-m/Agentic-LLM-Architecture-with-Tavily/blob/main/Language%20Agent%20Tree%20Search.png)
+![Multi-Agent Architecture](https://github.com/n-p-m/Agentic-LLM-Architecture-with-Tavily/blob/main/Multi-Agent%20Architecture.png)
+![Plan And Execute Architecture](https://github.com/n-p-m/Agentic-LLM-Architecture-with-Tavily/blob/main/Plan%20And%20Execute%20Architecture.png)
+![SuperVisor Architecture](https://github.com/n-p-m/Agentic-LLM-Architecture-with-Tavily/blob/main/SuperVisor%20Architecture.png)
