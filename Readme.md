@@ -32,7 +32,7 @@ We use thread config to keep track of threads inside the persistent checkpoint. 
 
 ## Project Workflow
 
-![Project Workflow](Essay Writer.png)
+![Project Workflow](https://github.com/n-p-m/Agentic-LLM-Architecture-with-Tavily/blob/main/Essay%20Writer.png)
 
 ## Human In Loop Architectures
 
